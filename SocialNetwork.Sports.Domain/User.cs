@@ -15,5 +15,7 @@ namespace SocialNetwork.Sports.Domain
         public DateTime BirthDate { get; set; }
 
         public string Email { get; set; }
+
+        public string ProfileDescription { get; set; }
     }
 }
