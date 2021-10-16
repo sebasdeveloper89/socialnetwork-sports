@@ -1,0 +1,10 @@
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\bin\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.deps.json
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\bin\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\bin\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.AssemblyInfo.cs
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.DataAccess\obj\Debug\netcoreapp3.1\SocialNetwork.Sports.DataAccess.pdb

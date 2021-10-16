@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SocialNetwork.Sports.DataAccess/1.0.0": {
+        "runtime": {
+          "SocialNetwork.Sports.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SocialNetwork.Sports.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

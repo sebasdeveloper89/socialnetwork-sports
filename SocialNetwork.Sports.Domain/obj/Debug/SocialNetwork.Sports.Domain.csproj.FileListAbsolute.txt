@@ -1,0 +1,6 @@
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.Domain\bin\Debug\SocialNetwork.Sports.Domain.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.Domain\bin\Debug\SocialNetwork.Sports.Domain.pdb
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.Domain\obj\Debug\SocialNetwork.Sports.Domain.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.Domain\obj\Debug\SocialNetwork.Sports.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.Domain\obj\Debug\SocialNetwork.Sports.Domain.dll
+C:\Users\Sebastian\Documents\Code\Net Framework\SocialNetwork.Sports\SocialNetwork.Sports.Domain\obj\Debug\SocialNetwork.Sports.Domain.pdb
